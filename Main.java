@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class Main {
 
-     String username;
+    String username;
     String password;
     private static final String FILE_PATH = "point_data.txt";
 
